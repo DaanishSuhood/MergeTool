@@ -1,0 +1,14 @@
+# Compiled binary — distributed via GitHub Releases
+*.exe
+
+# Per-user settings written at runtime
+MergeTool_config.ini
+
+# Office lock/temp files
+~$*
+*.tmp
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.vscode/
